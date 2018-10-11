@@ -1,6 +1,17 @@
 title: Value Analysis - Yes Bank (October 2018)
-date: 2018-10-11 08:03:11
+gallery:
+  - images/ybimg.png
+photos:
+  - images/ybimg.png
+excerpt: Summary
+categories:
+  - Finance
 tags:
+  - Finance
+  - Investing
+  - Value Analysis
+
+date: 2018-10-11 08:03:11
 ---
 This is first in an upcoming series for posts for Value Analysis for companies within the Indian Share Market, we’ll be analysing companies hot in the news lately for their intrinsic value and to check if they have any significant ‘moat’.
 
