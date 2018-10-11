@@ -1,17 +1,18 @@
----
 title: What is Momentum Investing?
-date: 2018-10-02 14:28:53
-gallery: [images/img.jpg]
-photos: [images/img.jpg]
+gallery:
+  - images/img.jpg
+photos:
+  - images/img.jpg
 excerpt: Summary
 categories:
-- Finance
+  - Finance
 tags:
-- Finance
-- Investing
-- Momentum
+  - Finance
+  - Investing
+  - Momentum
+date: 2018-10-02 14:28:53
 ---
-Momentum Investing is a an investment strategy which involves capitalizing on an existing market trend by going long on upward price ticks and going short or to cash when price ticks go down below.
+Momentum Investing is an investment strategy which involves capitalizing on an existing market trend by going long on upward price ticks and going short or to cash when price ticks go down below.
 
 Momentum is observed using the Exponential Moving Average technical indicators, especially the ones aimed at longer days. Usually the combination of 50 Days and 100 Days EMA is used to analyze the current momentum for a stock in the markets. Buy when shorter EMA crosses over longer EMA. Sell on the opposite occurrence.
 
