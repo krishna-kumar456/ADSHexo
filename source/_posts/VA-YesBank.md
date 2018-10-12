@@ -3,7 +3,10 @@ gallery:
   - images/ybimg.png
 photos:
   - images/ybimg.png
-excerpt: Summary
+excerpt:
+  depth: 10
+  excerpt_excludes: []
+  more_excludes: []
 categories:
   - Finance
 tags:
