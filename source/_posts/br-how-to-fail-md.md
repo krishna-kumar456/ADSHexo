@@ -1,10 +1,10 @@
 title: Book Summary - How to fail at everything and still win big
 gallery:
-  - images/htf.jpg
+  - images/htf.jpeg
 photos:
-  - images/htf.jpg
+  - images/htf.jpeg
 excerpt:
-  depth: 5
+  depth: 10
   excerpt_excludes: []
   more_excludes: []
 categories:
