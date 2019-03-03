@@ -5,6 +5,10 @@ gallery:
   - images/matt-ragland-493335-unsplash.jpg
 photos:
   - images/matt-ragland-493335-unsplash.jpg
+excerpt:
+  depth: 10
+  excerpt_excludes: []
+  more_excludes: []
 categories:
 - Productivity
 tags:
