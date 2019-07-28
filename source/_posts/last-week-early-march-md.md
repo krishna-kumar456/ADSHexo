@@ -19,13 +19,13 @@ tags:
 
 Here’s an aggregated list of things I did the previous week.
 
-### Articles
+##### Articles
 
 https://fs.blog/2019/02/investment-algorithm/
 https://ofdollarsanddata.com/popular-posts/
 
 
-### Books (Piece by Piece)
+##### Books (Piece by Piece)
 
 
 The Wheel of time - The Eye of the World
@@ -35,7 +35,7 @@ Programming in Scala
 Pre-suation
 
 
-### What did I Code this week?
+##### What did I Code this week?
 
 Revising Docker concepts - https://www.katacoda.com/courses/docker/ - Complete!
 Deploying Spark on Kubernetes - https://testdriven.io/blog/deploying-spark-on-kubernetes/ - Complete!
