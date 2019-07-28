@@ -19,21 +19,18 @@ tags:
 
 Here’s an aggregated list of things I did the previous week.
 
-Articles
---------
+##### Articles
 
 https://nav.al/price-discrimination/
 https://ofdollarsanddata.com/how-do-you-plan-for-this/
 
 
-Books (Piece by Piece)
-----------------------
+##### Books (Piece by Piece)
 
 The Wheel of time - Fires of Heaven - Complete!
 Range
 
 
-What did I Code this week?
---------------------------
+##### What did I Code this week?
 
 Book Recomendation System - Early project organization
