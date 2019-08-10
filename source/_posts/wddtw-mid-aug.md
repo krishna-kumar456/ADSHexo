@@ -1,0 +1,35 @@
+---
+title: What did I do this past week?
+date: 2019-08-04 10:40:00
+gallery:
+  - images/matt-ragland-493335-unsplash.jpg
+photos:
+  - images/matt-ragland-493335-unsplash.jpg
+excerpt:
+  depth: 10
+  excerpt_excludes: []
+  more_excludes: []
+categories:
+- Productivity
+tags:
+- Finance
+- Technology
+- Productivity
+---
+
+Here’s an aggregated list of things I did the previous week.
+
+##### Articles
+
+http://highscalability.com/blog/2019/8/2/stuff-the-internet-says-on-scalability-for-august-2nd-2019.html
+
+
+##### Books (Piece by Piece)
+
+The Wheel of time - Lord of Chaos
+Range
+
+
+##### What did I Code this week?
+
+Book Recomendation System (Franklin) - Recommender using wikipedia links.
